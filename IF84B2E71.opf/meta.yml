@@ -1,0 +1,25 @@
+id: IF84B2E71
+initial_creation_type: ebook
+source_metadata:
+  id: RCP-PHA-01
+  title: ༄༅། །སངས་རྒྱས་ཀྱི་བསྟན་པ་ལ་རིམ་གྱིས་འཇུག་པའི་ཚུལ་ཞེས་བྱ་བ་བཞུགས་སོ། །
+  author: མཛད་པ་པོ། ༧འགྲོ་མགོན་ཕག་མོ་གྲུ་པ།
+  authors: &id001
+  - མཛད་པ་པོ། ༧འགྲོ་མགོན་ཕག་མོ་གྲུ་པ།
+  sku: RCP-PHA-01
+  cover: RCP-PHA-01.jpg
+  volume: {}
+ebook_metadata:
+  title: ༄༅། །སངས་རྒྱས་ཀྱི་བསྟན་པ་ལ་རིམ་གྱིས་འཇུག་པའི་ཚུལ་ཞེས་བྱ་བ་བཞུགས་སོ། །
+  authors: *id001
+  sku: RCP-PHA-01
+  cover: RCP-PHA-01.jpg
+layers:
+- Author
+- BookTitle
+- Chapter
+- Citation
+- Commentary
+- Sabche
+- Tsawa
+- Yigchung
